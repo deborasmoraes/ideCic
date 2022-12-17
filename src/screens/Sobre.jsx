@@ -6,8 +6,10 @@ const Sobre = () => {
     return (
         
         <div>
-
-            <h1 className={styles.title}>Seleção Brasileira De Futebol</h1>   
+            <div>
+            <h1 className={styles.title}>Seleção Brasileira <br></br>
+             De Futebol</h1>  
+             </div>
                 <h2 className={styles.textHeader} >Sobre A Seleção</h2>
             <div align='center'>
                 <p className={styles.text}>A Seleção Brasileira de Futebol representa o Brasil nas competições de futebol da CONMEBOL e FIFA. </p>

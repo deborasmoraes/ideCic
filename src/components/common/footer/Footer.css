@@ -12,7 +12,7 @@ footer {
     background-color: #20195f;
     font-size: 20px !important;
   }
-  
+
   .footer_img_brasil, .footer_texto, .footer_img_ide {
     display: flex;
     flex-direction: column;
@@ -30,11 +30,6 @@ footer {
     text-align: center ;
     width: 100%;
   }
-
-
-
- 
-
 .border-test{
   border: 1px solid  red;
 }

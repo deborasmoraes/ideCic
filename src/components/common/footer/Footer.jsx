@@ -6,13 +6,13 @@ import cbfLogo from './/imagens/cbf.svg';
 export default function Footer() {
   return (
     <div>
-      <footer className="text-light ">
+      <footer className="text-light">
         {/*<!-- Grid container -->*/}
-        <div className="container ">
+        <div className="container">
           {/*<!--Grid row-->*/}
           <div className="row">
              
-            <div className=" col-md-2 float-left ">
+            <div className="col-md-2 float-left">
             <img src={cbfLogo} className="imagem_rodape_cbf" alt = "Cbf Company"></img>
             </div>
            

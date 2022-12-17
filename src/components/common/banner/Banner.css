@@ -5,5 +5,27 @@
     height: 480px;
     margin: 0;
     width: 100%;
-    background-color: #20195f ;
+
 }
+.sombra{
+position: absolute;
+width: 860px;
+height: 166px;
+left: 0px;
+top: 433px;
+
+background: linear-gradient(180deg, rgba(32, 25, 95, 0) 0%, #20195F 100%);
+}
+
+.title{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 58px;
+    color: white;
+    text-align: left;
+    position: relative;
+    bottom: 200px;
+    margin-left: 20px;
+    }
