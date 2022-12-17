@@ -1,0 +1,46 @@
+
+
+.title{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 54px;
+line-height: 58px;
+color: white;
+text-align: center;
+margin-top: 8px;
+}
+
+.textHeader{
+font-family: Poppins;
+font-size: 20px;
+font-weight: 700;
+margin-top: 8px;
+letter-spacing: 0em;
+text-align: center;
+color: white;
+
+    
+}
+.header{
+   margin: auto;
+width: 198px;
+height: 28px;
+left: 330px;
+top: 39px;
+position: relative;
+background: #0E389C;
+}
+.text{
+font-family: Poppins;
+font-size: 20px;
+font-weight: 300;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: center;
+padding: 3px;
+width: 80%;
+justify-content: center;
+align-items: center;
+
+}

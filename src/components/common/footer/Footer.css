@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;700&display=swap');
+
+* {
+    font-size: 62.5%;
+    font-family: 'Inter', sans-serif;
+}
+
+footer {
+    display: flex;
+    margin-bottom: 20px;
+    justify-content: center;
+    background-color: #20195f;
+    font-size: 20px !important;
+  }
+  
+  .footer_img_brasil, .footer_texto, .footer_img_ide {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    width: 30%;
+  }
+  
+  .footer_texto {
+    margin-bottom: 10px;
+    font-size: 2rem;
+  }
+  
+  .footer_texto {
+    padding-top: 50px;
+    text-align: center ;
+    width: 100%;
+  }
+
+
+
+ 
+
+.border-test{
+  border: 1px solid  red;
+}
+.divisor {
+	width: 1px;
+	background: white;
+	margin: 12px 15px;
+}
+
+.imagem_rodape {
+  padding-top: 40px;
+  width: 140px;
+}
+.imagem_rodape_cbf {
+  padding-top: 20px;
+  width: 100px;
+}
+
+footer .navbar-nav a {
+	color: white !important;
+  
+	font-size: 1.2em;
+}
+footer .navbar-nav a:hover {
+	color: #9bf0e1;
+	text-decoration: none;
+}

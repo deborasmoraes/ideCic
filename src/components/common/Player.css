@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;700&display=swap');
+
+* {
+  font-size: 62.5%;
+  font-family: 'Inter', sans-serif;
+}
+
+.img_jogador_blue {
+    border-top: #0E389C;
+}
+
+.img_jogador_green {
+  border-top: #079A5A;
+}
+
+.img_jogador_blue, .img_jogador_green {
+  width: 80px;
+  height: 100px;
+  object-fit: cover;
+  border-top: 0.5rem solid;
+}
+
+.faixa_green {
+    color: #079A5A;
+    background-color: #EEEE;
+}
+
+.faixa_blue {
+    color: #0E389C;
+}
+
+.faixa_blue, .faixa_green {
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 120px;
+}
+
+.circle_green {
+    background: #079A5A;
+  }
+
+  .circle_blue {
+    background: #0E389C;
+  }
+
+  .circle_blue, .circle_green {
+    margin-left: auto;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    /* text-align: center; */
+    font-size: 4rem;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+  }
